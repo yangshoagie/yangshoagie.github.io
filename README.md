@@ -1,4 +1,3 @@
-# yangshoagie.github.io
 ![header](https://capsule-render.vercel.app/api?type=rect&color=1C768F&customColorList=0,2,2,5,30&text=Seungtak%20Yang&animation=fadeIn&fontColor=d6ace6)
 
 ![yangshoagie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangshoagie&show_icons=true&theme=cobalt)
@@ -18,12 +17,15 @@ Catholic University of Korea (CUK), major in Business administration & Consumer 
 
 #### 동성고등학교 졸업 (2016 ~ 2019)
 Graduated Dongsung Highschool
+
 3년간 역사문화탐방 동아리, 영어회화 동아리, 뉴스기사 번역 및 토론동아리 부원으로 활동
 마케팅 자율동아리 회장, 학급회장으로 활동함.
 
 #### Gooding Highschool exchange student (2015 ~ 2016)
 Finished Sophomore year
+
 English, Spanish, US History, Environmental Science, Desktop Publishing 등을 공부함.
+
 New York, Philadelphia, Florida, Uta 자유여행 경험이 있음.
 
 
@@ -47,12 +49,16 @@ New York, Philadelphia, Florida, Uta 자유여행 경험이 있음.
 # :sparkles: 대외활동/프로젝트
 #### 국제리더십학생협회 AIESEC in CUK 국내프로젝트 팀매니저, 부서장 (2019 ~ 2021)
 UN 산하 세계 최대 비영리단체인 AIESEC 가톨릭대 지부에서 국내프로젝트부서(iGV)의 팀매니저와 부서장(LCVP)로 활동
+
 인도네시아, 태국, 터키, 중국 등의 다양한 나라의 외국인 봉사자들과 함께 SDGs 관련 프로젝트 기획 및 참여
+
 부천남중학교, 연수여자고등학교, 동원F&B, 미주라, 동아제약과 함께 SDGs 12번 관련 멘토링 및 캠페인 진행을 비롯한 7주 프로젝트 'ECONATION' 기획 및 진행
+
 양업고등학교, 뚜또, 보나쥬르와 함께 SDGs 13번 관련 멘토링 프로젝트 'Vegun Again' 기획 및 진행
 
 #### SK LOOKIE (2022 ~ )
 SK 행복나눔재단에서 주관하는 SK LOOKIE의 부원으로 활동 중
+
 폐에어백을 업사이클링하여 캠핑의자를 만드는 BM 개발
 
 #### 풀무원 지구식단 홍보마케팅 기획 및 실무협업 (2022 ~2023 )
@@ -65,10 +71,15 @@ SK 행복나눔재단에서 주관하는 SK LOOKIE의 부원으로 활동 중
 
 # :sparkles: 자격증
 > 소방안전관리자 2급
+
 > 한국사능력검정시험 1급
+
 > 커피 바리스타 2급
+
 > 3톤미만 지게차, 굴삭기 면허
+
 > 1종 대형 운전면허
+
 > 유튜브크리에이터전문가 1급
 
 
