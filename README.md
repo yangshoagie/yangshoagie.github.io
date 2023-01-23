@@ -2,7 +2,7 @@
 
 ![yangshoagie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangshoagie&show_icons=true&theme=cobalt)
 	
-:four_leaf_clover: Me :four_leaf_clover:
+🍀 Me 🍀
 
    [![Instagram Badge](https://img.shields.io/badge/Instagram-F0047F?style=flat-square&logo=instagram&&logoColor=white&link=https://www.instagram.com/yangs_hoagie/)](https://www.instagram.com/yangs_hoagie/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-556472?style=flat-square&logo=instagram&&logoColor=white&link=https://www.instagram.com/hoagie_dogie/)](https://www.instagram.com/hoagie_dogie/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCs8vJ1jePfiOJ70ymAX5EWA)](https://www.youtube.com/channel/UCs8vJ1jePfiOJ70ymAX5EWA) ![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/양승탁) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xkr0639@gmail.com)](mailto:xkr0639@gmail.com)
   
@@ -11,7 +11,7 @@
  
 
 let the adventure begin.
-# :sparkles: 학력
+# ✨ 학력
 #### 가톨릭대학교 경영학, 소비자학 전공 (2019 ~)
 Catholic University of Korea (CUK), major in Business administration & Consumer Studies
 
@@ -29,7 +29,7 @@ English, Spanish, US History, Environmental Science, Desktop Publishing 등을 �
 New York, Philadelphia, Florida, Uta 자유여행 경험이 있음.
 
 
-# :sparkles: 수상경력
+# ✨ 수상경력
 #### 한국소비자원 기업의 탄소중립실천을 위한 아이디어 공모전 대상
 한국소비자원과 기업소비자전문가협회가 주관하는 공모전으로, '기존의 무라벨 페트병, 라벨 페트병을 대체할 수 있는 리무버블 스티커 페트병' 아이디어를 제안, 6개 기업에서 상용화 검토중
 
@@ -46,7 +46,7 @@ New York, Philadelphia, Florida, Uta 자유여행 경험이 있음.
 가톨릭대학보사가 주최하는 제 43회 가대문화상에서 시부문 가작으로 당선됨.
 
 
-# :sparkles: 대외활동/프로젝트
+# ✨ 대외활동/프로젝트
 #### 국제리더십학생협회 AIESEC in CUK 국내프로젝트 팀매니저, 부서장 (2019 ~ 2021)
 UN 산하 세계 최대 비영리단체인 AIESEC 가톨릭대 지부에서 국내프로젝트부서(iGV)의 팀매니저와 부서장(LCVP)로 활동
 
@@ -69,7 +69,7 @@ SK 행복나눔재단에서 주관하는 SK LOOKIE의 부원으로 활동 중
 한국경제문화연구원, 전자랜드와 함께 전자랜드의 휴대폰 판매 인식 확산과 관한 마케팅방안을 기획하는 프로젝트 진행, 전자랜드 현직자 및 LG U+ 홍보마케팅 종사자와 함께 마케팅 실무협업
 
 
-# :sparkles: 자격증
+# ✨ 자격증
 > 소방안전관리자 2급
 
 > 한국사능력검정시험 1급
@@ -83,7 +83,7 @@ SK 행복나눔재단에서 주관하는 SK LOOKIE의 부원으로 활동 중
 > 유튜브크리에이터전문가 1급
 
 
-# :sparkles: 교내활동
+# ✨ 교내활동
 #### 비즈니스모델 베이직 클래스 1기, 6기 수료 ( 2020, 2022 )
 BMC, VPC, Lean Canvas와 관한 전반적인 것을 다루는 워크숍
 
